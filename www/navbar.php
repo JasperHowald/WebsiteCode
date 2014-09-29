@@ -5,7 +5,7 @@
 <title></title>
 <link href="styles.css" rel="stylesheet" type="text/css">
 </head>
-//Nav Bar. Use PHP to require this *require function*
+
 <body>
 </body>
 </html>

@@ -7,13 +7,13 @@
 </head>
 <h1>Palmer Ridge Robotics</h1>
 	<div id="body">
+    <!--<?php require header.php?>-->
     	<div id="nav">
-        	<a href="default.html">Home</a><br />
-           <a href="about.html">About</a><br />
-           <a href="contact.html">Contact Us</a><br /><a href="contact.html">Contact Us</a><br />
+        	<!--<?php require navbar.php?>-->
         </div>
         <div id="feature">
           <p>Contact Us</p>
+          <!--<?php require contactForm.php?>-->
         	<div id="content">
            	  
             </div>

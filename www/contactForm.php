@@ -5,7 +5,7 @@
 <title></title>
 <link href="styles.css" rel="stylesheet" type="text/css">
 </head>
-//Contact form to require with PHP *require function*
+
 <body>
 </body>
 </html>
